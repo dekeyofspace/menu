@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\App.g.cs
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger_MarkupCompile.cache
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger_MarkupCompile.lref
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\bin\Debug\MenuHamburger.exe.config
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\bin\Debug\MenuHamburger.exe
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\bin\Debug\MenuHamburger.pdb
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MainWindow.baml
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.g.resources
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.Properties.Resources.resources
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.exe
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\MenuHamburger.pdb
+C:\Users\Admin\source\repos\MenuHamburger\MenuHamburger\obj\Debug\ImageList.baml
